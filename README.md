@@ -1,65 +1,42 @@
-# Project title
+# SHOPPING CART
 
-The project is avaiable on this link [Live link](https://urlexample.com)
+This is a chalenge of the Rocketseat course, when the goal is to built a cart hook for an ecommerce.
 
-<img style="display: block; margin-left: auto; margin-rigth: auto;" src="./images/screenshots/main1.jpg">
+<img style="display: block; margin-left: auto; margin-rigth: auto;" src="./public/screenshot_main.JPG">
 
 <br>
 
 ## Sumary
 
-- [Overview](#overview)
+- [Overview]()
 - [Features](#features)
-  - [Feature 1](#Feature_1)
-  - [Feature 2](#Feature_2)
-  - [Feature 3](#Feature_3)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+  - [Local Storage API](#local_storage_API)
+- [Technologies](#technologies)
 - [Author](#author)
 
-## Overview
-
-A short description of the project
 
 ## Features
 
-### Feature 1
+### Local Storage API
 
-Description of the feature
+All changes in cart are persisted in the browser through the local storage API, keeping cart info even if page refreshes.
 
-![](./images/screenshots/theme-toggle.gif)
+### React Toastfy
 
-### Feature 2
+The pack React Toastfy was used to show error messages. 
 
-Description of the feature
-
-![](./images/screenshots/click-btn.gif)
-
-### Feature 3
-
-Description of the feature
-
-![](./images/screenshots/two-line-screen.gif)
+![](./public/toastfy.gif)
 
 
-## My process
+### Technologies
 
-### Built with
+- React JS
+- Typescript
+- Styled components
+- Hooks
+- Axios
+- Local Storage API
 
-- Javascript
-- HTML5
-- CSS 3 (SASS preprocessor)
-- Git
-
-Use this space to describle some codes
-
-```js
-//Javascript code
-function greatFunction() {
-}
-```
-### What I learned
 
 
 ## Author
