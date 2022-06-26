@@ -2,7 +2,7 @@
 
 This is a chalenge of the Rocketseat course, when the goal is to built a cart hook for an ecommerce.
 
-<img style="display: block; margin-left: auto; margin-rigth: auto;" src="./public/screenshot_main.JPG">
+<img style="display: block; margin-left: auto; margin-rigth: auto;" src="./public/screenshot_main.jpg">
 
 <br>
 
