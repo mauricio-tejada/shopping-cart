@@ -1,8 +1,15 @@
 # SHOPPING CART
 
-This is a chalenge of the Rocketseat course, when the goal is to built a cart hook for an ecommerce.
+This is a chalenge of the [Rocketseat](https://www.rocketseat.com.br/) course, when the goal is to built a cart hook for an ecommerce with the folowing functionalities:
 
-<img style="display: block; margin-left: auto; margin-rigth: auto;" src="./public/screenshot_main.jpg">
+- Add a new product into the cart;
+- Remove a item from cart;
+- Change the amount of a item in the cart;
+- Calculate the total and subtotal of the cart;
+- Inventory validation;
+- Show error messages;
+
+<img style="display: block; margin-left: auto; margin-rigth: auto;" src="./public/main.gif">
 
 <br>
 
@@ -11,6 +18,8 @@ This is a chalenge of the Rocketseat course, when the goal is to built a cart ho
 - [Overview]()
 - [Features](#features)
   - [Local Storage API](#local_storage_API)
+  - [React Toastify](#react-toastify)
+  - [Cart Functionalities](#cart-functionalities)
 - [Technologies](#technologies)
 - [Author](#author)
 
@@ -19,11 +28,18 @@ This is a chalenge of the Rocketseat course, when the goal is to built a cart ho
 
 ### Local Storage API
 
-All changes in cart are persisted in the browser through the local storage API, keeping cart info even if page refreshes.
+All changes in cart are persisted in the browser through the local storage API, keeping cart info even if page refreshes or close.
 
-### React Toastfy
+### Cart Functionalities
 
-The pack React Toastfy was used to show error messages. 
+Increment, decrement and remove buttons. 
+Subtotal and total value.
+
+![](./public/cart.jpg)
+
+### React Toastify
+
+The pack [React Toastify](https://fkhadra.github.io/react-toastify/introduction/) was used to show error messages. 
 
 ![](./public/toastfy.gif)
 
@@ -36,6 +52,7 @@ The pack React Toastfy was used to show error messages.
 - Hooks
 - Axios
 - Local Storage API
+- JSON Server
 
 
 
