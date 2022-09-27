@@ -1,6 +1,6 @@
 # SHOPPING CART
 
-This is a chalenge of the [Rocketseat](https://www.rocketseat.com.br/) course, when the goal is to built a cart hook for an ecommerce with the folowing functionalities:
+This is a challenge of the [Rocketseat](https://www.rocketseat.com.br/) course, when the goal is to built a cart hook for an ecommerce with the folowing functionalities:
 
 - Add a new product into the cart;
 - Remove a item from cart;
